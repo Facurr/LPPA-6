@@ -1,3 +1,3 @@
-Práctica de CSS y Web Responsive
+Trabajo practico Nº 6 de CSS y Web Responsive
 
-Noticia Original: https://www.bbc.com/mundo/noticias-internacional-61267212
+Web original: https://www.bbc.com/mundo/noticias-internacional-61267212
